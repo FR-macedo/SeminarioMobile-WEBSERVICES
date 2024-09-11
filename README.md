@@ -10,8 +10,8 @@ Exemplos Práticos: Implementação de exemplos práticos para ilustrar os conce
 Este repositório será útil para estudantes e desenvolvedores que desejam entender melhor como os Webservices funcionam, as diferenças entre REST e Restful, e como aplicar essas práticas em projetos reais.
 
 
-Members: 
-Diego Humberto
-Francisco Macedo
-João Gabriel
-José Roberto
+### Members: 
+- Diego Humberto
+- Francisco Macedo
+- João Gabriel
+- José Roberto
